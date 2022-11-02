@@ -1,5 +1,14 @@
 
-body {background-color: black;}
-h1 {  color: white; }
-position: 200;
-p {  color: white; }
+body {
+  background-color: black;
+  font-family: 'Arial';
+      }
+
+h1 {  
+  color: white; 
+  position: 200;
+    }
+
+p {  
+  color: white;
+    }
