@@ -6,9 +6,16 @@ body {
 
 h1 {  
   color: white; 
-  position: 200;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 200px;
     }
 
 p {  
   color: white;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: 80px;
     }
